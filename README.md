@@ -1,4 +1,6 @@
-### Languages, Tools, Software & OS:
+<div align="center">
+  ### Languages, Tools, Software & OS:
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -12,7 +14,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-800080?style=flat&logo=OpenAI&logoColor=white)
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -26,7 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="Prompt Engineering" width="40" height="40"/>
 </p>
 
-<div>
+<div align="center">
   <br>
   <h2>Show some love ❤️ by following me...</h2>
 </div>
