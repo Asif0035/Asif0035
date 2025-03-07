@@ -1,6 +1,7 @@
 <div align="center">
-  ### Languages, Tools, Software & OS:
+  <h1>Languages, Tools, Software & OS:</h1>
 </div>
+<div></div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
